@@ -8,6 +8,12 @@ package netanel.jct.com.mytarguilimssadnajava5779;
         import android.view.View;
         import android.widget.Button;
 
+        /*
+                RAPHAEL AMAR - 342473675
+                NETANEL COHEN SOLAL - 1444669
+         */
+
+
 public class MainActivity extends AppCompatActivity {
 
     public static final String TAG = "MyFirstProgram";
